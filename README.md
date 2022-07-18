@@ -26,19 +26,19 @@
   - [YMDK DSA blanks](https://amazon.com/dp/B08YR6KNX9/) - $23
 
 # Design Iterations
-# V0.0 - Minimum Viable-45
+## V0.0 - Minimum Viable-45
 - 45 keys
 - Designed around normal keycap sizes
 - Thicc plate - 10mm
 - Notes
   - Progressed only to first extrusion/switch cutouts
-# V0.1 - the Splaynck (splay+planck)
+## V0.1 - the Splaynck (splay+planck)
 - 45 keys (spacebar will be 2x1u)
 - Designed around planck/ortho sets
 - Notes
 - Adopted for smaller overall size - 266mm wide. It can theoretically be printed in one piece.
 - No stabilizers, no stabilizer problems
-# V0.2 - It’s time to stop ok? no more
+## V0.2 - It’s time to stop ok? no more
 - notes
   - SICK-68 style construction
     - I should probably just finish one to test layout/preliminary feel before changing more things.
