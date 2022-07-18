@@ -25,7 +25,7 @@
   - [M3x8 FHCS](https://www.amazon.com/dp/B01D4VHJJ6/) - $7.58
   - [YMDK DSA blanks](https://amazon.com/dp/B08YR6KNX9/) - $23
 
-Design Iterations
+# Design Iterations
 # V0.0 - Minimum Viable-45
 - 45 keys
 - Designed around normal keycap sizes
