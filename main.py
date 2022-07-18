@@ -69,7 +69,7 @@ keyboard.keymap = [
                             XXXXXX,   XXXXXX,   XXXXXX,   LSFT_S,   MSB_l,   MSB_r,   XXXXXX,   XXXXXX,
     ],
     [  # system
-         XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,  XXXXXX, KC.VOLD,  KC.VOLU,   XXXXXX,   XXXXXX,             XXXXXX,
+         XXXXXX,  XXXXXX,  KC.BRID,  KC.BRIU,   XXXXXX,   XXXXXX,  XXXXXX, KC.VOLD,  KC.VOLU,   XXXXXX,   XXXXXX,             XXXXXX,
          XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,            XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,
          XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,  XXXXXX,   XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,
                             XXXXXX,   XXXXXX,    LOWER,   XXXXXX,  XXXXXX,   RAISE,   XXXXXX,   XXXXXX,
