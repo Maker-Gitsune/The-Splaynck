@@ -1,5 +1,4 @@
 # Prerequisites
-The instructions assume the following:
 - You can solder.
 # Instructions
 1. Print one of “top” and “bottom”
