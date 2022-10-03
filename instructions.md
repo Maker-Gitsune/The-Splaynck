@@ -25,4 +25,5 @@ The instructions assume the following:
 8. Familiarize yourself with the key arrangement
     - https://gnusenpai.net/colemakclub/
     - Use the ortho setting
+    - Here is a cheatsheet for the included firmware
 
