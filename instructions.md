@@ -1,10 +1,6 @@
 # Prerequisites
 The instructions assume the following:
 - You can solder.
-- You have set up and tested [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use.
-- Your computer has a text editor that supports circuitpython with a serial window.
-    - I used [Mu](https://codewith.mu/).
-
 # Instructions
 1. Print one of “top” and “bottom”
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins
@@ -12,7 +8,8 @@ The instructions assume the following:
     - Print settings: 
         - Body - 3+3, no more than 15% infill
         - Pins - 2 horizontal, 3 vertical, no more than 10% infill
-2. Glue top_l, to top_r, and bottom_l to bottom_r together using pins. 
+2. If you haven't, set up and test [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use. Also, make sure your computer has a text editor that supports circuitpython with a serial window. I used [Mu](https://codewith.mu/).
+3. Glue top_l, to top_r, and bottom_l to bottom_r together using pins. 
     - Sanding where the parts come together is recommended for fit and bond strength
     - If needed, use a box cutter to deburr the holes/edges
 3. Add heat set inserts to “top”
@@ -26,4 +23,3 @@ The instructions assume the following:
     - https://gnusenpai.net/colemakclub/
     - Use the ortho setting
     - Here is a cheatsheet for the included firmware
-
