@@ -1,7 +1,9 @@
 # Prerequisites
 The instructions assume the following:
 - You can solder.
-- You have set up and tested [KMK](https://github.com/KMKfw/kmk_firmware) on the Raspberry Pi Pico you intend to use.
+- You have set up and tested [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use.
+- Your computer has a text editor that supports circuitpython with a serial window.
+    - I used [Mu](https://codewith.mu/).
 
 # Instructions
 1. Print one of “top” and “bottom”
@@ -15,5 +17,12 @@ The instructions assume the following:
     - If needed, use a box cutter to deburr the holes/edges
 3. Add heat set inserts to “top”
 4. Install switches with the LED slots at the bottom
-5. Handwire according to
+5. Handwire according to the picture below. Make sure the wires are long enough to reach the pi  when both halves' front halves when they are touching
 6. download the main.py and kb.py files from and transfer to the pi pico
+    - The default layout is Colemak-DH. If you use another layout, now is the time to change it.
+7. assemble and add the keycaps
+    - be careful when closing the upper and lower halves. Take time to nudge the wires into the case before tightening the screws.    
+8. Familiarize yourself with the key arrangement
+    - https://gnusenpai.net/colemakclub/
+    - Use the ortho setting
+
