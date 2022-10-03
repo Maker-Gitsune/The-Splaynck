@@ -1,5 +1,5 @@
 # Prerequisites
-- You can solder.
+- You know how to solder.
 # Instructions
 1. Print one of “top” and “bottom”
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins
