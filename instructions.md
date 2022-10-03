@@ -1,3 +1,8 @@
+# Prerequisites
+The instructions assume the following:
+- You can solder.
+- You have set up and tested [KMK](https://github.com/KMKfw/kmk_firmware) on the Raspberry Pi Pico you intend to use.
+
 # Instructions
 1. Print one of “top” and “bottom”
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins
@@ -11,3 +16,4 @@
 3. Add heat set inserts to “top”
 4. Install switches with the LED slots at the bottom
 5. Handwire according to
+6. download the main.py and kb.py files from and transfer to the pi pico
