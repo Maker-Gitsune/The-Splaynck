@@ -14,11 +14,13 @@
 3. Add heat set inserts to “top”
 4. Install switches with the LED slots at the bottom
 5. Handwire according to the picture below. Make sure the wires are long enough to reach the pi  when both halves' front halves when they are touching
-6. download the main.py and kb.py files from and transfer to the pi pico
+6. Transfer all the files from "Splaynck Code" to the pi pico.
     - The default layout is Colemak-DH. If you use another layout, now is the time to change it.
+    - boot.py hides the Pi Pico unless the upper leftmost key is held when plugged in.
 7. assemble and add the keycaps
     - be careful when closing the upper and lower halves. Take time to nudge the wires into the case before tightening the screws.    
 8. Familiarize yourself with the key arrangement
     - https://gnusenpai.net/colemakclub/
-    - Use the ortho setting
+        - Use the ortho setting
+    - https://keybr.com/
     - Here is a cheatsheet for the included firmware
