@@ -1,3 +1,5 @@
+#This is set up for Colmak-DH with h-digraph chords.
+
 print("starting")
 
 from kb import KMKKeyboard
