@@ -161,12 +161,7 @@ keyboard.keymap = [
          XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,  XXXXXX,   XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,
                             XXXXXX,   XXXXXX,    LOWER,   XXXXXX,  XXXXXX,    RAISE,  XXXXXX,   XXXXXX,
     ],
-    [  # MTGAP
-         KC.ESC,    KC.Y,     KC.P,     KC.O,     KC.U,     KC.J,    KC.K,    KC.D,     KC.L,     KC.C,     KC.W,           KC.ENTER,
-         ctrl_t,    KC.I,     KC.N,     KC.E,     KC.A,  KC.COMM,             KC.M,     KC.H,     KC.T,     KC.S,     KC.R,   ctrl_a,
-        KC.LCTL, bgrm_qu,     KC.Z,  KC.SLSH,   KC.DOT,  KC.SCLN,     IDK,    KC.B,     KC.F,     KC.G,     KC.V,     KC.X,  KC.RCTL,
-                           KC.LGUI,  KC.LALT,    LOWER,   LSFT_S,  RSFT_S,   RAISE,  KC.RALT,  KC.RGUI,
-    ],
+    
 ]
 
 if __name__ == '__main__':
