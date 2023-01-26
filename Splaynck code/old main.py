@@ -1,4 +1,5 @@
 #This is set up for Colmak-DH with h-digraph chords.
+#rename to just "main" before using.
 
 print("starting")
 
