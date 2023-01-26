@@ -1,5 +1,5 @@
 # The Splaynck
-- My first foray into the world of mechanical keyboards.
+My first foray into the world of mechanical keyboards.
 # What is it?
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
 # When is it?
