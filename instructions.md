@@ -12,8 +12,12 @@
 4. Add heat set inserts to the 8 holes in “top”
 5. Install switches with the LED slots at the bottom
 6. insert the Pi Pico into the holder, and the holder into the bottom. Note that the Pi Pico will only go in one way.
+<div style="width: 50%; height: 50%;">
 ![pico holder](/images/hodl_the_pico.jpg)
+<div>
+<div style="width: 50%; height: 50%;">
 ![mounted](/images/pico_mounted.jpg)
+<div>
     - It is optional, but hightly reccomended that the Pi Pico is fastened to the insert by the use of pins made of short lengths of 1.75mm filament. You will likely need to ream the holes in the holder with a 2mm drill bit before the filament will fit. Make sure that the filament is cut flush with the top of the holder as shown below.
     - The bottom corners will likely need some sanding.
 7. Handwire according to the pictures below. Make sure the wires are long enough to reach the pi when both halves' front halves when they are touching.
