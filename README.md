@@ -1,6 +1,6 @@
 # The Splaynck
-![the finished keyboard](/images/done.jpg)
 My first foray into the world of mechanical keyboards.
+![the finished keyboard](/images/done.jpg)
 # What is it?
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
 # When is it?
