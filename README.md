@@ -28,4 +28,4 @@ My first foray into the world of mechanical keyboards.
       | 1u    | 41 |
       | 1.25u | 2  |
       | 1.5u  | 2  |
-    
+    - It is possible to use all 1u keycaps. Just print the top pieces with "ortho" in the file names.
