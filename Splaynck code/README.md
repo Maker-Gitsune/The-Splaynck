@@ -1,5 +1,6 @@
 # Keymap of the provided firmware
 ![keymap](/images/cheatsheet.PNG)
+
 The following chords are not pictured, but are enabled by default:
 - W and F send "wh"
 - F and P send "ph"
