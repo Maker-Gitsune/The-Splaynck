@@ -4,9 +4,6 @@
 1. Print one of “top” and “bottom” and the pi pico holder.
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins instead of "top" and "bottom"
     - There are two variations of the top: one with a HHKB-inspired layout and one that is for ortholinear (all 1u) keycap sets.
-    - Print settings: 
-        - Body pieces and Pi Pico holder - 3+3, no more than 15% infill
-        - Pins - 2 horizontal, 3 vertical, no more than 10% infill
 2. If you haven't, set up and test [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use. Also, make sure your computer has a text editor that supports circuitpython with a serial window. I used [Mu](https://codewith.mu/).
 3. If applicable, glue top_l, to top_r, and bottom_l to bottom_r together using the 4 pins. 
     - Sanding where the parts come together is recommended for fit and bond strength.
