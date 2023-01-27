@@ -3,7 +3,7 @@
 # Instructions
 1. Print one of “top” and “bottom” and the pi pico holder.
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins instead of "top" and "bottom"
-    - There are two variations of the top: one with a HHKB-inspired layout and one that is for ortholinear (all 1u) sets.
+    - There are two variations of the top: one with a HHKB-inspired layout and one that is for ortholinear (all 1u) keycap sets.
     - Print settings: 
         - Body pieces - 3+3, no more than 15% infill
         - Pins - 2 horizontal, 3 vertical, no more than 10% infill
