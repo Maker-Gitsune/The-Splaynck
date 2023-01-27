@@ -4,7 +4,7 @@
   - The rectangle with rounded corners needs to face upwards.
   - 3 walls, 3 perimeters, no more than 15% infill.
 
-![pin orientation](/images/pih_orientation.png)
+![pin orientation](/images/pin_orientation.png)
 - Pins
   - Print flat side down.
   - 3 walls, 2 perimeters, no more than 10% infill
