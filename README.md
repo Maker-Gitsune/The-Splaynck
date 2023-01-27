@@ -4,7 +4,7 @@ My first foray into the world of mechanical keyboards.
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
 # When is it?
 - Now.
-  - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering. (At least for me.)  
+  - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering (at least for me).
 # Why is it?
 - A 4x12 ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards(pronation).
 - Splaying the rows outwards encourages neutral/reduced wrist angle which is more comfortable.
