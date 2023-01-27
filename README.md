@@ -7,7 +7,7 @@ My first foray into the world of mechanical keyboards.
 - Now.
   - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering (at least for me).
 # Why is it?
-- A ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards(pronation).
+- A ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards (uncomfortable).
 - Splaying the rows outwards encourages neutral/reduced wrist angle which is more comfortable.
 # How?
 - The case is 3d printed and electronics are handwired/soldered.
