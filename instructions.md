@@ -8,8 +8,9 @@
         - Pins - 2 horizontal, 3 vertical, no more than 10% infill
 2. If you haven't, set up and test [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use. Also, make sure your computer has a text editor that supports circuitpython with a serial window. I used [Mu](https://codewith.mu/).
 3. If applicable, glue top_l, to top_r, and bottom_l to bottom_r together using the 4 pins. 
-    - Sanding where the parts come together is recommended for fit and bond strength
-    - If needed, use a box cutter to deburr the holes/edges
+    - Sanding where the parts come together is recommended for fit and bond strength.
+    - If needed, use a box cutter to deburr the holes/edges.
+    - Feel free to sand the outside once the glue is cured.
 4. Add heat set inserts to the 8 holes in “top”
 5. Install switches with the LED slots at the bottom
 6. insert the Pi Pico into the holder, and the holder into the bottom. Note that the Pi Pico will only go in one way.
