@@ -21,7 +21,7 @@ My first foray into the world of mechanical keyboards.
   - [M3 threaded inserts](https://www.amazon.com/dp/B09MCW7ZN5/) - $8
   - [M3x8 FHCS](https://www.amazon.com/dp/B01D4VHJJ6/) - $7.58
   - [YMDK DSA blanks](https://amazon.com/dp/B08YR6KNX9/) - $23
-    - exact keycap sizes used
+    - exact keycap sizes used:
       | size | Quantity |
       | ------------- | ------------- |
       | 1u    | 41 |
