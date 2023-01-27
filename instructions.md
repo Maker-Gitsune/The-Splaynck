@@ -16,7 +16,7 @@
     - The bottom corners will likely need some sanding.
 7. Handwire according to the pictures below. Make sure the wires are long enough to reach the pi when both halves' front halves when they are touching.
 ![wiring](/images/all_wired.jpg)
-![wiring diagram](/images/splaynck wiring.png)
+![wiring diagram](/images/splaynck_wiring.png)
     - **each switch needs to have a diode that points towards the rows**
     - **Note that the wiring in the middle of the second to topmost row is bent to clear the support in the bottom half of the case**
     - from left to right, the columns are wired to the pico on pins 
