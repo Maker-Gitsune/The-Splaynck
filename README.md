@@ -1,5 +1,5 @@
 # The Splaynck
-![The finished keyboard](/The-Splaynck/images/done.jpg?raw=true)
+<img src="github.com/Maker-Gitsune/The-Splaynck/blob/main/images/done.jpg" width="50%" height="50%">
 My first foray into the world of mechanical keyboards.
 # What is it?
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
