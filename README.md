@@ -7,10 +7,8 @@ My first foray into the world of mechanical keyboards.
 - Now.
   - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering (at least for me).
 # Why is it?
-- A 4x12 ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards(pronation).
+- A ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards(pronation).
 - Splaying the rows outwards encourages neutral/reduced wrist angle which is more comfortable.
-- Smaller keyboards enforce reduced movement; 40% keyboards often require just 1 key distance of movement to reach all of the keys from the home row.
-- They also necessitate the use of layers, which can be used to place commonly used keys not present in the main layout directly underneath your fingers, for even less hand movement
 # How?
 - The case is 3d printed and electronics are handwired/soldered.
 - Everything else can be from Amazon.
