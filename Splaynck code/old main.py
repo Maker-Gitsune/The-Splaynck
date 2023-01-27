@@ -126,7 +126,6 @@ combos.combos = [
     Chord((KC.G, KC.T), bgrm_gh),
     Chord((LSFT_S, bgrm_qu), KC.Q),
     Chord((KC.LCTL, KC.RCTL), KC.TG(5)),
-    Chord((LSFT_S, KC.E), KC.Q),
 
 ]
 
