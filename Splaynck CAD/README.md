@@ -1,14 +1,14 @@
 # Part orientation/print settings
-![pph orientation](/images/pph_orientation.png)
 - Pi Pico holder
+![pph orientation](/images/pph_orientation.png)
   - The rectangle with rounded corners needs to face upwards.
   - 3 walls, 3 perimeters, no more than 15% infill, supports enabled.
-![pin orientation](/images/pin_orientation.png)
 - Pins
+![pin orientation](/images/pin_orientation.png)
   - Print flat side down.
   - 3 walls, 2 perimeters, no more than 10% infill
+- Tops and bottoms
 ![top orientation](/images/top_orientation.png)
 ![bottom orientation](/images/bottom_orientation.png)
-- Tops and bottoms
   - print with largest face down.
   - 3 walls, 3 perimeters, no more than 15% infill.
