@@ -21,8 +21,9 @@
 ![wiring diagram](/images/splaynck_wiring.png)
     - **each switch needs to have a diode that points towards the rows**
     - **Note that the wiring in the middle of the second to topmost row is bent to clear the support in the bottom half of the case**
-    - from left to right, the columns are wired to the pico on pins 
-    - from top to bottom, the rows are wired to the pico on pins 
+![pico pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
+    - from left to right, the columns are wired to the pico on pins **GP14 to GP2**
+    - from top to bottom, the rows are wired to the pico on pins **GP21 to GP18**
 8. Transfer all the files from "Splaynck Code" to the pi pico. Test the keyboard while everything is acessible.
     - **Make sure that "old main.py" is renamed to "main.py" or "code.py"**
     - The default layout is Colemak-DH. If you use another layout, now is the time to change it.
