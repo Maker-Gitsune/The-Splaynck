@@ -1,7 +1,7 @@
 #Part orientation
-Pi Pico holder
+- Pi Pico holder
   - The rectangle with rounded corners needs to face upwards.
-Pins
+- Pins
   - Print flat side down.
-Tops and bottoms
+- Tops and bottoms
   - print with largest face down
