@@ -1,4 +1,4 @@
-#Part orientation
+# Part orientation
 - Pi Pico holder
   - The rectangle with rounded corners needs to face upwards.
 - Pins
