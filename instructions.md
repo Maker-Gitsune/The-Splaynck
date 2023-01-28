@@ -1,5 +1,21 @@
 # Prerequisites
 - You know how to solder.
+# Parts needed
+- 45 Cherry MX or compatible switches
+- 1N4148 diodes
+- Raspberry Pi Pico
+- 28 AWG wire
+- M3 threaded inserts
+- M3x8 FHCS
+- Keycaps
+    - exact keycap sizes used:
+      | size | Quantity |
+      | ------------- | ------------- |
+      | 1u    | 41 |
+      | 1.25u | 2  |
+      | 1.5u  | 2  |
+    - It is possible to use all 1u keycaps. Just print the top pieces with "ortho" in the file names.
+
 # Instructions
 1. Print one of “top” and “bottom” and the pi pico holder.
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins instead of "top" and "bottom"
