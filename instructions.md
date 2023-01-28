@@ -7,6 +7,7 @@
 - 28 AWG wire
 - M3 threaded inserts
 - M3x8 FHCS
+- A micro USB cable (I used an old phone charger)
 - Keycaps
     - exact keycap sizes used:
       | size | Quantity |
