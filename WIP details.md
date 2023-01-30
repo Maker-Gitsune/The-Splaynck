@@ -9,8 +9,8 @@
 - 45 keys (spacebar will be 2x1u)
 - Designed around planck/ortho sets
 ### Notes
-    - Adopted for smaller overall size - 266mm wide. It can theoretically be printed in one piece.
-    - No stabilizers, no stabilizer problems
+- Adopted for smaller overall size - 266mm wide. It can theoretically be printed in one piece.
+- No stabilizers, no stabilizer problems
 ### Log
 #### 05/29/2022 
 - Plate mostly done - switch cutouts and relief cuts.
