@@ -85,6 +85,7 @@
  - Stuff to do
     - Ortho top
 #### 07.03.22 - 1h
+![Ortho top](/images/ortho_top_v0.2_finished.png)
 - Top left printed
 - Ortho top finished
 - Split version complete
