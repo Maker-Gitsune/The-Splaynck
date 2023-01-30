@@ -113,4 +113,5 @@
 - Base, mouse and number layers completed
 #### 07.17.22
 - Symbol and system layers finished
-
+#### 01.27.23
+- I added a chamfer to the front of the top pieces in CAD.
