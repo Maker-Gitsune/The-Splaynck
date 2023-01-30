@@ -22,7 +22,9 @@
     - If you have a smaller print bed, print one of top_l, top_r, bottom_l, bottom_r, in addition to 4x pins instead of "top" and "bottom"
     - There are two variations of the top: one with a HHKB-inspired layout and one that is for ortholinear (all 1u) keycap sets.
 2. If you haven't, set up and test [KMK](https://github.com/KMKfw/kmk_firmware/blob/master/docs/Getting_Started.md) on the Raspberry Pi Pico you intend to use. Also, make sure your computer has a text editor that supports circuitpython with a serial window. I used [Mu](https://codewith.mu/).
-3. If applicable, glue top_l, to top_r, and bottom_l to bottom_r together using the pins. 
+3. If applicable, glue top_l, to top_r, and bottom_l to bottom_r together using the pins.
+![pin detail](/images/IMG-5249.jpg)
+![pin detail again](/images/IMG-5247.jpg) 
     - Sanding where the parts come together is recommended for fit and bond strength.
     - If needed, use a box cutter to deburr the holes/edges.
     - Feel free to sand the outside once the glue is cured.
@@ -46,6 +48,7 @@
     - The default layout is Colemak-DH. If you use another layout or want to modify any of the layers, now is the time to do it.
     - boot.py hides the Pi Pico's drive unless the upper leftmost key is held when plugged in. You do not need to have this, but it is reccomended to make sure that the keyboard will immediately work when plugged in.
 9. assemble and add the keycaps
+![nearly finished](/images/IMG-5255.jpg)
     - be careful when closing the upper and lower halves. Take time to nudge the wires into the case before tightening the screws. **Do not overtighten**    
 10. Familiarize yourself with the key arrangement.
     - Here are some websites that I have used for typing practice:
