@@ -1,6 +1,6 @@
 # CAD/Build log (this itself is not finished.)
 ## V0.0 - Minimum Viable-45
-![V0.0](/images/plate_v0.0_final state.PNG)
+![V0_0](/images/plate_v0.0_final state.PNG)
 - 45 keys
 - Designed around normal keycap sizes
 - Thicc plate - 10mm
