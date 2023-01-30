@@ -87,7 +87,7 @@
 - Split version complete
 - CAD is finished
 #### 07.04.22 - 2.5h
-![gluing](/images/IMG-5250.jpg)
+
 ![the start of wiring](/images/IMG-5256.jpg)
 - Top left printed. Top pieces are sanded to fit and epoxy-ed together
 - Threaded inserts installed. Soldering started. Row 2 done.
