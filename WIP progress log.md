@@ -43,6 +43,7 @@
     - 5x20mm dowel pins with squared bottom
 ### Log
 #### 06.20.22 - 2h
+![V0.2 top](/images/top_v0.2_finished.png)
 - It’s time to stop. No more revisions
 - Stuff to do 
     - bottom
@@ -69,12 +70,14 @@
     - Insert holes
     - Test fit sled and mockup of slot
 #### 07.01.22 - 1.5h
+![testing](/images/testing_for_fit.jpg)
 - More testing
 - Threaded insert holes - 5*5mm, 1mm chamfer around the opening
 - Stuff to do
     - Ortho top
     - Insert holes
 #### 07.02.22 - 2h
+![printing the bottom](/images/printing_the_bottom.jpg)
  - It begins…
  - Threaded insert testing finished.
  - Bottom printed
