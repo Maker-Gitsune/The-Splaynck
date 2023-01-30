@@ -1,11 +1,13 @@
 # CAD/Build log (this itself is not finished.)
 ## V0.0 - Minimum Viable-45
-![V0_0](/images/plate_v0.0_final_state.PNG)
+![V0.0](/images/plate_v0.0_final_state.PNG)
 - 45 keys
 - Designed around normal keycap sizes
 - Thicc plate - 10mm
 - Progressed only to first extrusion/switch cutouts
 ## V0.1 - the Splaynck (splay+planck)
+![V0.1 top](/images/plate_v0.1_top.PNG)
+![V0.1 bottom](/images/plate_v0.1_bottom.PNG)
 - 45 keys (spacebar will be 2x1u)
 - Designed around planck/ortho sets
 ### Notes
