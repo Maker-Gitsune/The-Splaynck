@@ -96,6 +96,7 @@
 #### 07.06.22 - 1h
 - To column 6
 #### 07.07.22 - 3h
+![wiring](/images/all_wired.jpg)
 - Wiring finished
 #### 07.08.22
 - Programming started
