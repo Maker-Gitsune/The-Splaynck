@@ -1,8 +1,8 @@
 # The Splaynck
 My first foray into the world of mechanical keyboards.
-![banana for scale](/images/for_scale2.jpg)
-# What is it?
 ![the finished keyboard](/images/done.jpg)
+# What is it?
+![banana for scale](/images/for_scale2.jpg)
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
 # When is it?
 - Now.
