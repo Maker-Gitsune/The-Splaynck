@@ -43,7 +43,7 @@
 ![pico pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
     - from left to right, the columns are wired to the pico on pins **GP14 to GP2**
     - from top to bottom, the rows are wired to the pico on pins **GP21 to GP18**
-8. Transfer all the files from "Splaynck Code" to the pi pico. Test the keyboard while everything is acessible.
+8. Transfer all the files from "Splaynck Code" (except for the readme) to the pi pico. Test the keyboard while everything is acessible.
     - **Make sure that "old main.py" is renamed to "main.py" or "code.py"**
     - The default layout is Colemak-DH. If you use another layout or want to modify any of the layers, now is the time to do it.
     - boot.py hides the Pi Pico's drive unless the upper leftmost key is held when plugged in. You do not need to have this, but it is reccomended to make sure that the keyboard will immediately work when plugged in.
