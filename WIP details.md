@@ -3,8 +3,7 @@
 - 45 keys
 - Designed around normal keycap sizes
 - Thicc plate - 10mm
-- Notes
-    - Progressed only to first extrusion/switch cutouts
+- Progressed only to first extrusion/switch cutouts
 ## V0.1 - the Splaynck (splay+planck)
 - 45 keys (spacebar will be 2x1u)
 - Designed around planck/ortho sets
