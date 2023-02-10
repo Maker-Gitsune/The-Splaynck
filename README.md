@@ -4,6 +4,7 @@ My first foray into the world of mechanical keyboards.
 # What is it?
 ![banana for scale](/images/for_scale2.jpg)
 - A compact, ergonomic keyboard for a lowish price. (~$50. including components in bulk, about $73 excluding filament.)
+- inspired by the Katana60 and the SICK-68.
 # When is it?
 - Now.
   - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering (at least for me).
