@@ -8,6 +8,8 @@ My first foray into the world of mechanical keyboards.
 # When is it?
 - Now.
   - *Starting now. Total time is ~25 hours: ~16h printing, ~8 soldering (at least for me).
+- Not now.
+  - compatability with Boardsource's Peg
 # Why is it?
 - A ortholinear/grid layout is the most efficient in terms of space, but forces the wrists to bend outwards (uncomfortable).
 - Splaying the rows outwards encourages neutral/reduced wrist angle which is more comfortable.
