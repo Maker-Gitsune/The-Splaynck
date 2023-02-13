@@ -7,6 +7,6 @@ The following chords are not pictured, but are enabled by default:
 - C and D send "ch"
 - G and T send "gh"
 - S and the left spacebar send "sh"
-- T and the left spacebar send "sh"
+- T and the left spacebar send "th"
 - Q and the left spacebar send "q"
     - also, "Q" sends "qu"
