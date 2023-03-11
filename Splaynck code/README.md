@@ -10,3 +10,5 @@ The following chords are not pictured, but are enabled by default:
 - T and the left spacebar send "th"
 - Q and the left spacebar send "q"
     - also, "Q" sends "qu"
+# Peg support (added 03/11/2023)
+The code provided is the bare minimum needed to use Peg. If you choose this option, you will need to configure the keymap yourself.
