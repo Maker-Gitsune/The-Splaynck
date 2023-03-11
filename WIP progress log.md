@@ -1,4 +1,4 @@
-# CAD/Build log (this itself is not finished.)
+# CAD/Build/Progress log (this itself is not finished.)
 ## V0.0 - Minimum Viable-45
 ![V0.0](/images/plate_v0.0_final_state.PNG)
 - 45 keys
@@ -115,3 +115,5 @@
 - Symbol and system layers finished
 #### 01.27.23
 - I added a chamfer to the front of the top pieces in CAD.
+#### 03.11.23
+- I have implemented support for Boardsource's Peg remapping tool. It appears to work to the full extent of it's abilities.
