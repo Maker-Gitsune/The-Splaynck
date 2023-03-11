@@ -12,6 +12,6 @@ The following chords are not pictured, but are enabled by default:
     - also, "Q" sends "qu"
 # Peg support (added 03/11/2023)
 **IMPORTANT**
- - Currently, Peg supports a limited number of modules/extensions; If you are considering this, reference the Peg-specific main.py to see which are supported.
+ - Currently, Peg appears to support a limited number of modules/extensions; If you are considering this, reference the Peg-specific main.py to see which are supported.
 
 The code provided is the bare minimum needed to use Peg. If you choose this option, you will need to configure the keymap yourself.
