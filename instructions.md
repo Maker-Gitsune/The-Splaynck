@@ -62,5 +62,3 @@
         - https://gnusenpai.net/colemakclub/
             - Use the ortho setting
         - https://keybr.com/
-    - Here is a cheatsheet for the included firmware:
-![keymap](/images/cheatsheet.PNG)
