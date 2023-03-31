@@ -125,7 +125,6 @@ combos.combos = [
     Chord((KC.F, KC.W), bgrm_wh),
     Chord((KC.G, KC.T), bgrm_gh),
     Chord((LSFT_S, bgrm_qu), KC.Q),
-    Chord((KC.LCTL, KC.RCTL), KC.TG(5)),
 
 ]
 
@@ -151,8 +150,8 @@ keyboard.keymap = [
     ],
     [  # EXTEND
          XXXXXX,  XXXXXX,      cut,     copy,    paste,   XXXXXX,  XXXXXX, KC.HOME,  KC.PGUP,  KC.PGDN,   KC.END,             XXXXXX,
-         KC.TAB, KC.LGUI,  KC.LALT,  KC.LCTL,  KC.LSFT,   XXXXXX,           MSW_up,  KC.LEFT,    KC.UP,  KC.DOWN, KC.RIGHT,   XXXXXX,
-         XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,  XXXXXX,  MSW_dn,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,
+         XXXXXX, KC.LGUI,  KC.LALT,  KC.LCTL,  KC.LSFT,   XXXXXX,           MSW_up,  KC.LEFT,    KC.UP,  KC.DOWN, KC.RIGHT,   XXXXXX,
+         XXXXXX,  XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,  XXXXXX,  MSW_dn,   KC.TAB,   XXXXXX,   XXXXXX,   XXXXXX,   XXXXXX,
                             XXXXXX,   XXXXXX,   XXXXXX,   LSFT_S,   MSB_l,   MSB_r,   XXXXXX,   XXXXXX,
     ],
     [  # system
@@ -166,4 +165,3 @@ keyboard.keymap = [
 
 if __name__ == '__main__':
     keyboard.go()
-# Write your code here :-)
